@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    float: left;
+    width: 300px;
+}
+.sidebar a{
+    text-decoration: none;
+}
+
+#content{
+    float: left;
+}
